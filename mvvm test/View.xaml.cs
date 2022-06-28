@@ -16,7 +16,7 @@ using System.Windows.Shapes;
 namespace mvvm_test
 {
     /// <summary>
-    /// Логика взаимодействия для View.xaml изменение
+    /// Логика взаимодействия для View.xaml  второе изменение
     /// </summary>
     public partial class View : Window 
     {
