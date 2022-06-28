@@ -12,6 +12,7 @@ namespace mvvm_test
     class ViewModel : INotifyPropertyChanged
     {
         /////////////
+        //////////// forst changes
         Model _model;
         public List<string> _ListOfObjects;
         public int _count;
